@@ -4,10 +4,11 @@
 * Intro
 * Figma
 * Images
+* [Link to the page]
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This is a project about traveling across the US.
 
 **Figma**
 
@@ -15,6 +16,4 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+Images were imported from Figma. Optimized by [here](https://tinypng.com/).

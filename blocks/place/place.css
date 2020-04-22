@@ -1,0 +1,37 @@
+@import url('__description/place__description.css');
+@import url('__image-wrap/place__image-wrap.css');
+@import url('__image/place__image.css');
+@import url('__link/place__link.css');
+@import url('__paragraph/place__paragraph.css');
+@import url('__title/place__title.css');
+@import url('__url-heading/place__url-heading.css');
+@import url('__website/place__website.css');
+
+.place {
+  display: grid;
+  grid-template-columns: minmax(auto, 1fr) auto;
+  grid-template-rows: auto auto;
+  grid-gap: 48px 40px;
+  grid-template-areas:
+    "title url"
+    "image description";
+  margin-bottom: 80px;
+}
+
+.place:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto;
+    margin-bottom: 48px;
+    grid-template-areas:
+      "title"
+      "image"
+      "description";
+    grid-gap: 0;
+    margin-bottom: 48px;
+  }
+}

@@ -1,0 +1,7 @@
+@import url('_light-text/intro__list-item_light-text.css');
+
+.intro__list-item {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.5;
+}

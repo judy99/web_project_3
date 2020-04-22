@@ -1,0 +1,13 @@
+.cover__link {
+  display: block;
+  position: relative;
+  padding-bottom: calc(100%/1.6);
+  color: #FFFFFF;
+  text-decoration: none;
+  background: #2A2C2F url("../../../images/route66__bg.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.cover__link:hover {
+  background-blend-mode: overlay;
+}
