@@ -4,7 +4,7 @@
 * Intro
 * Figma
 * Images
-* [Link to the page]
+* [Link to the page](https://judy99.github.io/web_project_3/).
 
 **Intro**
 
