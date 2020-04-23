@@ -8,7 +8,7 @@
 
 **Intro**
 
-This is a project about traveling across the US.
+A single page responsive website about traveling across the US.
 
 **Figma**
 
@@ -17,3 +17,9 @@ This is a project about traveling across the US.
 **Images**
 
 Images were imported from Figma. Optimized by [here](https://tinypng.com/).
+
+## Technologies
+Project is created with:
+* HTML5
+* CSS  
+* BEM
