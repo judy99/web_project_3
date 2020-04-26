@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
     width: calc(100% - 24px * 2);
     grid-template-columns: repeat(2, auto);
@@ -30,7 +30,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .photo-grid {
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(12, auto);

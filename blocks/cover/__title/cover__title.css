@@ -9,31 +9,31 @@
   color: #fffdfd;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover__title {
     width: 90%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover__title {
     margin: 0 0 16px 0;
   }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 719px) {
   .cover__title {
     font-size: 52px;
   }
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 519px) {
   .cover__title {
     font-size: 42px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 424px) {
   .cover__title {
     font-size: 32px;
   }
