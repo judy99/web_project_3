@@ -2,11 +2,14 @@
 @import url('__item-wrap/photo-grid__item-wrap.css');
 
 .photo-grid {
-  width: calc(100% - 48px*2);
+  width: calc(100% - 48px * 2);
   display: grid;
   grid-template-columns: repeat(4, auto);
   grid-template-rows: repeat(3, auto);
   grid-gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
   margin-bottom: 92px;
 }
 
@@ -20,7 +23,7 @@
 
 @media screen and (max-width: 1024px) {
   .photo-grid {
-    width: calc(100% - 24px*2);
+    width: calc(100% - 24px * 2);
     grid-template-columns: repeat(2, auto);
     grid-template-rows: repeat(6, auto);
     grid-gap: 14px;
@@ -29,7 +32,6 @@
 
 @media screen and (max-width: 768px) {
   .photo-grid {
-    /* width: calc(100% - 16px*2); */
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(12, auto);
     grid-gap: 12px;

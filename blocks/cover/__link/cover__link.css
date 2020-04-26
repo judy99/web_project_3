@@ -1,10 +1,10 @@
 .cover__link {
   display: block;
   position: relative;
-  padding-bottom: calc(100%/1.6);
-  color: #FFFFFF;
+  padding-bottom: calc(100% / 1.6);
+  color: #ffffff;
   text-decoration: none;
-  background: #2A2C2F url("../../../images/route66__bg.jpg") no-repeat center;
+  background: #2a2c2f url("../../../images/route66__bg.jpg") no-repeat center;
   background-size: cover;
 }
 
